@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class UsurioConfig(AppConfig):
+class rolConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'usurio'
+    name = 'apps.rol'
